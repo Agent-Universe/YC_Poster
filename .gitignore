@@ -1,0 +1,14 @@
+# 忽略 .history
+/.history/
+
+# 忽略 node_modules 目录
+/node_modules/
+
+# 可选择忽略 package-lock.json
+/package-lock.json
+
+# 忽略 Chrome 文件夹
+/Chrome/
+
+# 忽略 markdown-img 目录
+/markdown-img/

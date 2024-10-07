@@ -1,0 +1,643 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+* {
+  box-sizing: border-box;
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+.justify-start {
+  display: flex;
+  justify-content: flex-start;
+}
+.justify-center {
+  display: flex;
+  justify-content: center;
+}
+.justify-end {
+  display: flex;
+  justify-content: flex-end;
+}
+.justify-between {
+  display: flex;
+  justify-content: space-between;
+}
+.items-start {
+  display: flex;
+  align-items: flex-start;
+}
+.items-end {
+  display: flex;
+  align-items: flex-end;
+}
+.items-center {
+  display: flex;
+  align-items: center;
+}
+.no-shrink {
+  flex-shrink: 0;
+}
+
+.music_9_57 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 31px;
+  padding-right: 20px;
+  padding-left: 20px;
+  overflow: hidden;
+  background-color: #f5f5ee;
+  position: relative;
+  height: auto;
+  min-height: 100%;
+}
+
+.music_9_58 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+  gap: 40px;
+  flex-shrink: 0;
+  align-self: stretch;
+  overflow: hidden;
+  line-height: 37px;
+  position: relative;
+}
+
+.music_9_59 {
+  /* width: 264px;
+  height: 148px; */
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.music_9_60 {
+  flex-grow: 1;
+  width: 0;
+}
+
+.music_9_60_0_8 {
+  font-size: 36px;
+  font-family: HYRunYuan;
+  line-height: 37px;
+  font-weight: 400;
+  color: #3d3d3d;
+}
+
+.music_9_60_8_44 {
+  font-size: 20px;
+  font-family: HYRunYuan;
+  line-height: 37px;
+  font-weight: 400;
+  color: #3d3d3d;
+}
+
+.music_9_66 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-bottom: 20px;
+  gap: 12px;
+  flex-shrink: 0;
+  align-self: stretch;
+  overflow: hidden;
+  line-height: 29px;
+  position: relative;
+}
+
+.music_9_67 {
+  flex-shrink: 0;
+  align-self: stretch;
+}
+
+.music_9_67_0_52 {
+  font-size: 18px;
+  font-family: HYRunYuan;
+  line-height: 29px;
+  font-weight: 400;
+  color: #3d3d3d;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.music_9_67_52_53 {
+  font-size: 24px;
+  font-family: HYRunYuan;
+  line-height: 29px;
+  font-weight: 400;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.music_9_71 {
+  width: 680px;
+  height: 0;
+  flex-shrink: 0;
+  transform: rotate(0deg);
+  border: 1px solid #b3b3b3;
+}
+
+.music_12_285 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-bottom: 20px;
+  gap: 30px;
+  flex-shrink: 0;
+  align-self: stretch;
+  overflow: hidden;
+  position: relative;
+}
+
+.music_12_286 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  overflow: hidden;
+  border-radius: 100px;
+  position: relative;
+}
+
+.music_12_287 {
+  width: 100px;
+  height: 100px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.music_12_288 {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 13px;
+  flex-grow: 1;
+  width: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.music_12_299 {
+  flex-shrink: 0;
+  align-self: stretch;
+  font-size: 30px;
+  font-family: HYRunYuan;
+  font-weight: 400;
+  line-height: 45px;
+  color: #3d3d3d;
+  white-space: pre;
+  height: 45px;
+  margin-top: -11.5px;
+  margin-bottom: -11.5px;
+}
+
+.music_12_289 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  align-self: stretch;
+  overflow: hidden;
+  font-size: 18px;
+  font-family: HYRunYuan;
+  font-weight: 400;
+  line-height: 22px;
+  color: #3d3d3d;
+  position: relative;
+}
+
+.music_12_295 {
+  width: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 10px;
+  padding-bottom: 3px;
+  flex-shrink: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.music_12_296 {
+  width: 24px;
+  height: 29px;
+  flex-shrink: 0;
+  margin-top: -0.5px;
+  margin-right: 0;
+  margin-bottom: -0.5px;
+  margin-left: 0;
+}
+
+.music_12_290 {
+  flex-grow: 1;
+  width: 0;
+}
+
+.music_12_316 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-bottom: 20px;
+  gap: 30px;
+  flex-shrink: 0;
+  align-self: stretch;
+  overflow: hidden;
+  position: relative;
+}
+
+.music_12_331 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  overflow: hidden;
+  border-radius: 100px;
+  position: relative;
+}
+
+.music_9_89 {
+  width: 100px;
+  height: 100px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.music_12_317 {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 13px;
+  flex-grow: 1;
+  width: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.music_12_327 {
+  flex-shrink: 0;
+  align-self: stretch;
+  font-size: 30px;
+  font-family: HYRunYuan;
+  font-weight: 400;
+  line-height: 45px;
+  color: #3d3d3d;
+  white-space: pre;
+  height: 45px;
+  margin-top: -11.5px;
+  margin-bottom: -11.5px;
+}
+
+.music_12_318 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  align-self: stretch;
+  overflow: hidden;
+  font-size: 18px;
+  font-family: HYRunYuan;
+  font-weight: 400;
+  line-height: 22px;
+  color: #3d3d3d;
+  position: relative;
+}
+
+.music_12_319 {
+  width: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 10px;
+  padding-bottom: 3px;
+  flex-shrink: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.music_12_320 {
+  width: 24px;
+  height: 29px;
+  flex-shrink: 0;
+  margin-top: -0.5px;
+  margin-right: 0;
+  margin-bottom: -0.5px;
+  margin-left: 0;
+}
+
+.music_12_323 {
+  flex-grow: 1;
+  width: 0;
+}
+
+.music_9_003 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 12px;
+  padding-bottom: 20px;
+  gap: 15px;
+  flex-shrink: 0;
+  align-self: stretch;
+  overflow: hidden;
+  position: relative;
+}
+
+.music_9_004 {
+  flex-shrink: 0;
+  align-self: stretch;
+  line-height: 48px;
+  white-space: pre;
+  height: 48px;
+  margin-top: -13px;
+  margin-bottom: -13px;
+}
+
+.music_9_004_0_9 {
+  font-size: 24px;
+  font-family: HYRunYuan;
+  line-height: 22px;
+  font-weight: 400;
+  color: #3d3d3d;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.music_9_004_9_10 {
+  font-size: 32px;
+  font-family: HYRunYuan;
+  line-height: 22px;
+  font-weight: 400;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.music_9_008 {
+  width: 680px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  overflow: hidden;
+  line-height: 28px;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+}
+
+.music_9_009_0_99 {
+  font-size: 18px;
+  font-family: HYRunYuan;
+  line-height: 28px;
+  font-weight: 400;
+  color: #3d3d3d;
+}
+
+.music_9_009_99_101 {
+  font-size: 18px;
+  font-family: HYRunYuan;
+  line-height: 28px;
+  font-weight: 400;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
+
+.music_9_013 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 12px;
+  gap: 15px;
+  flex-shrink: 0;
+  align-self: stretch;
+  overflow: hidden;
+  position: relative;
+}
+
+.music_9_014 {
+  flex-shrink: 0;
+  align-self: stretch;
+  line-height: 48px;
+  white-space: pre;
+  height: 48px;
+  margin-top: -13px;
+  margin-bottom: -13px;
+}
+
+.music_9_014_0_10 {
+  font-size: 24px;
+  font-family: HYRunYuan;
+  line-height: 22px;
+  font-weight: 400;
+  color: #3d3d3d;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.music_9_014_10_11 {
+  font-size: 32px;
+  font-family: HYRunYuan;
+  line-height: 22px;
+  font-weight: 400;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.music_9_018 {
+  width: 680px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  overflow: hidden;
+  line-height: 28px;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+}
+
+.music_9_019_0_129 {
+  font-size: 18px;
+  font-family: HYRunYuan;
+  line-height: 28px;
+  font-weight: 400;
+  color: #3d3d3d;
+}
+
+.music_9_019_129_131 {
+  font-size: 18px;
+  font-family: HYRunYuan;
+  line-height: 28px;
+  font-weight: 400;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
+
+.music_9_023 {
+  height: 87px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding-top: 12px;
+  padding-bottom: 20px;
+  flex-shrink: 0;
+  align-self: stretch;
+  overflow: hidden;
+  font-size: 15px;
+  font-family: HYRunYuan;
+  font-weight: 400;
+  line-height: 22px;
+  color: #3d3d3d;
+  white-space: pre;
+  position: relative;
+}
+
+.music_9_024 {
+  flex-grow: 1;
+  width: 0;
+}
+
+.music_9_028 {
+  width: 100px;
+  height: 26px;
+  position: relative;
+  flex-shrink: 0;
+  margin-top: 0;
+  margin-right: 0px;
+  margin-bottom: 0;
+  margin-left: 0;
+}
