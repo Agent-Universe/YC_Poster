@@ -39,6 +39,10 @@ https://agentuniverse.feishu.cn/wiki/ISlvw7QTIi8kq8kMOYqczJ1inFh
 └── YC 项目.md              # 项目的详细教程文档
 ```
 
+### 整体流程图
+
+![流程图](markdown-img/流程图.jpg)
+
 ## 🔧 功能概述
 
 1. **项目列表爬取** ：通过自动化工具爬取 YC 网站上的所有 S24 项目信息
@@ -100,4 +104,4 @@ node screenshot.js
 
 欢迎关注微信公众号：特工宇宙
 
-<img src="markdown-img/AgentUniverse.png" alt="AgentUniverse" style="zoom:33%;" />
+![AgentUniverse](markdown-img/AgentUniverse.png)
