@@ -12,17 +12,21 @@
 
 ### YC S24 AI 相关项目完整信息（表格）：
 
-https://agentuniverse.feishu.cn/wiki/HosvwLWT9ifN7lkidDAcHjxqnsf?from=from_copylink
+📊 总表格：https://agentuniverse.feishu.cn/wiki/HosvwLWT9ifN7lkidDAcHjxqnsf?from=from_copylink
 
 ### YC S24 AI 项目图谱（可下载）
 
-总图谱：https://agentuniverse.feishu.cn/wiki/RLUPw94FWiMSGSkSJKTc94djnof
+🌐 总图谱：https://agentuniverse.feishu.cn/wiki/RLUPw94FWiMSGSkSJKTc94djnof
 
-每个项目：https://agentuniverse.feishu.cn/wiki/L0C1wj2k4iiXAMkuCNrcHwLtnPb
+📑 每个项目：https://agentuniverse.feishu.cn/wiki/L0C1wj2k4iiXAMkuCNrcHwLtnPb
+
+### YC 项目分析：
+
+📚 超级盘点丨YC S24 200+ AI 项目详细整理：https://mp.weixin.qq.com/s/jaKksNweXtbB4MXBUs9JhQ
 
 ### 更多公开资料：
 
-https://agentuniverse.feishu.cn/wiki/ISlvw7QTIi8kq8kMOYqczJ1inFh
+📖「特工宇宙」公开资料：https://agentuniverse.feishu.cn/wiki/ISlvw7QTIi8kq8kMOYqczJ1inFh
 
 ## 📁 项目结构
 
