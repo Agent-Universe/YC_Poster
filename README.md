@@ -14,17 +14,15 @@
 
 https://agentuniverse.feishu.cn/wiki/HosvwLWT9ifN7lkidDAcHjxqnsf?from=from_copylink
 
-### YC S24 AI 项目图谱
+### YC S24 AI 项目图谱（可下载）
 
-总图谱：
+总图谱：https://agentuniverse.feishu.cn/wiki/RLUPw94FWiMSGSkSJKTc94djnof
 
-每个项目：
+每个项目：https://agentuniverse.feishu.cn/wiki/L0C1wj2k4iiXAMkuCNrcHwLtnPb
 
-### 教程文章请查看：
+### 更多公开资料：
 
-欢迎关注我们--微信公众号：特工宇宙
-
-[名片]
+https://agentuniverse.feishu.cn/wiki/ISlvw7QTIi8kq8kMOYqczJ1inFh
 
 ## 📁 项目结构
 
@@ -101,3 +99,5 @@ node screenshot.js
 微信：jamiu99
 
 欢迎关注微信公众号：特工宇宙
+
+<img src="markdown-img/AgentUniverse.png" alt="AgentUniverse" style="zoom:33%;" />
