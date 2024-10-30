@@ -58,7 +58,7 @@
 ### 1️⃣ 克隆项目
 
 ```bash
-git clone https://github.com/yourname/YC.git
+git clone https://github.com/Agent-Universe/YC_Poster.git
 cd YC
 ```
 
